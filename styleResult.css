@@ -1,0 +1,15 @@
+.grid {
+  margin-top: 8%;
+  margin-left: 8%;
+  margin-bottom: 8%;
+  display: grid;
+  grid-column-gap: 30px;
+  grid-row-gap: 50px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+body{
+  background-color:#3b87dd;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+}

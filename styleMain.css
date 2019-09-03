@@ -1,0 +1,24 @@
+body{
+  background-color:#3b87dd;
+}
+center{
+  margin-top: 20%;
+}
+h1{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 100;
+}
+b{
+  font-weight: 800;
+}
+button{
+  height: 4vh;
+  color: white;
+  background-color: black;
+  border-color: black;
+}
+input{
+  font-family: 'Open Sans', sans-serif;
+  height : 3vh;
+  width: 25vw;
+}
